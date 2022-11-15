@@ -1,0 +1,15 @@
+.dado-recuadro {
+  font-weight: bold;
+  display: flex;
+  width: 2rem;
+  height: 2rem;
+  background-color: khaki;
+  color: black;
+  justify-content: center;
+  align-items: center;
+  margin: 1rem;
+  border-style: solid;
+  border-width: 3px;
+  border-color: black;
+  border-radius: 6px;
+}
